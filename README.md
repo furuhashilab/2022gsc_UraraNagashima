@@ -12,7 +12,7 @@
 
 ©︎Furuhashi Laboratory/Nagashima Urara, CC BY 4.0
 
--------
+
 ## タイトル「ワークショップ用ジオガチャ開発」
 
 ## Introduction
@@ -46,7 +46,6 @@ https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrF
 
 https://github.com/orgs/furuhashilab/projects/8
 
--------
 
 ### 中間発表
 
