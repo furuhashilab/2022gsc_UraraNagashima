@@ -48,7 +48,7 @@ https://github.com/orgs/furuhashilab/projects/8
 
 -------
 
-##中間発表
+## 中間発表
 
 メディウム
 
