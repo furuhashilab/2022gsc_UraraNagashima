@@ -46,3 +46,13 @@ https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrF
 
 https://github.com/orgs/furuhashilab/projects/8
 
+-------
+
+##中間発表
+
+メディウム
+
+
+スライド
+
+https://docs.google.com/presentation/d/1866suqwLz4JEbvIHWrlENDz-KaY4n0p6jdKYFQTIyIE/edit?usp=sharing
