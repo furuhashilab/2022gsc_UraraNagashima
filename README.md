@@ -22,7 +22,7 @@
 昨年2021年度には子供向けのワークショップ用ジオガチャ開発を行ったが、今年度は新たに年齢層を設定せず制作することとする。
 
 
-## 先行研究
+### 先行研究
 
 ガチャガチャはノベルティグッズの魅力を進化させる！日本ガチャガチャ協会所長 小野尾さん【ノベルティトップランナー】（2020）
 
@@ -38,17 +38,17 @@ https://www.walkerplus.com/article/1007300/
 
 
 
-## 参考文献・参考資料リスト
+### 参考文献・参考資料リスト
 
 https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrFSmw/edit?usp=sharing
 
-## プロジェクト管理
+### プロジェクト管理
 
 https://github.com/orgs/furuhashilab/projects/8
 
 -------
 
-## 中間発表
+### 中間発表
 
 メディウム
 
