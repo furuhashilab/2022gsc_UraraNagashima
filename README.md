@@ -61,7 +61,13 @@ https://github.com/orgs/furuhashilab/projects/8
 
 メディウム
 
+https://medium.com/furuhashilab/%E5%8D%92%E8%AB%96%E4%B8%AD%E9%96%93%E7%99%BA%E8%A1%A8by%E3%81%86%E3%82%89%E3%82%89-bc96dd9d477f
 
 スライド
 
 https://docs.google.com/presentation/d/1866suqwLz4JEbvIHWrlENDz-KaY4n0p6jdKYFQTIyIE/edit?usp=sharing
+
+グラレコ
+
+![______91_20221108033504](https://user-images.githubusercontent.com/51436920/200388833-aa74f882-a9a5-4767-9e44-eef6f8ed7567.png)
+
