@@ -47,7 +47,7 @@
 を採用。使用したのは３D 制作アプリBlenderである。
 先行研究（先行開発？）として、地図記号を使用したガチャガチャでは、
 
-![image](https://user-images.githubusercontent.com/51436920/203335775-ff492221-c508-4a02-b71a-075884ee4b66.png" alt="picture2" width="350" height="350")
+![image](https://user-images.githubusercontent.com/51436920/203335775-ff492221-c508-4a02-b71a-075884ee4b66.png " alt="picture2" width="350" height="350")
 
 
 ## Results
