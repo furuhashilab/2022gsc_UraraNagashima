@@ -30,7 +30,19 @@
 
 使用したのは３D 制作アプリBlenderである。
 
-先行研究（先行開発？）として、地図記号を使用したガチャガチャでは、ブシロードが「TAMA-KYU 地図記号キーホルダー」（https://gacha.o0o0.jp/gp/archives/4577）　を作成していた。発売は2022年1月で、金額は300円。
+先行研究（先行開発？）として、地図記号を使用したグッズを調査。
+
+1948年に創業した、日本を代表する地図情報会社ゼンリンが地図という身近で便利な「道具」を
+「柄・デザイン」として捉え、地図の新しい可能性を追求するゼンリンの新たな取り組みとして誕生した「マップデザイン」※１の商品が出ていた。
+※１　https://www.mapdesigngallery.com/pages/about-map-design
+
+（https://www.mapdesigngallery.com/products/8bd024h0b）
+
+
+<img src="https://user-images.githubusercontent.com/51436920/203340615-d5ef6116-b55f-41ef-9170-d54c3b045176.png" width = "350" height = "350">
+
+
+ガチャガチャでは、ブシロードが「TAMA-KYU 地図記号キーホルダー」（https://gacha.o0o0.jp/gp/archives/4577）　を作成していた。発売は2022年1月で、金額は300円。
 
 <img src="https://user-images.githubusercontent.com/51436920/203335775-ff492221-c508-4a02-b71a-075884ee4b66.png" width = "350" height = "350">
 
@@ -67,7 +79,7 @@
 重要港
 地方港）を採用。
 
-
+<img src="　" width = "350" height = "350">
 
 ## Results
 
