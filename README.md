@@ -42,7 +42,9 @@
 <img src="https://user-images.githubusercontent.com/51436920/203340615-d5ef6116-b55f-41ef-9170-d54c3b045176.png" width = "350" height = "350">
 
 
-ガチャガチャでは、ブシロードが「TAMA-KYU 地図記号キーホルダー」（https://gacha.o0o0.jp/gp/archives/4577）　を作成していた。発売は2022年1月で、金額は300円。
+ガチャガチャでは、ブシロードが「TAMA-KYU 地図記号キーホルダー」（https://gacha.o0o0.jp/gp/archives/4577 ) を作成していた。
+
+発売は2022年1月で、金額は300円。
 
 <img src="https://user-images.githubusercontent.com/51436920/203335775-ff492221-c508-4a02-b71a-075884ee4b66.png" width = "350" height = "350">
 
