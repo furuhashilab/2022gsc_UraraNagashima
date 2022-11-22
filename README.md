@@ -64,7 +64,7 @@
 
 を採用。
 
-<img src="![image](https://user-images.githubusercontent.com/51436920/203335775-ff492221-c508-4a02-b71a-075884ee4b66.png)" width = "350" height = "350">
+<img src="https://user-images.githubusercontent.com/51436920/203335775-ff492221-c508-4a02-b71a-075884ee4b66.png" width = "350" height = "350">
 
 
 
