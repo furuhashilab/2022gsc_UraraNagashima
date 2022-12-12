@@ -133,7 +133,7 @@
 可能な場合何種類にするか、ポージングが可能な場合いくつかの姿を映した方が良いだろうか。
 
 
-<img src="　" width = "350" height = "350">
+<img src="https://user-images.githubusercontent.com/51436920/207121638-b771105e-2f3d-41a8-866e-3753a2c2ba85.png" width = "500" height = "350">
 
 ## Results
 
