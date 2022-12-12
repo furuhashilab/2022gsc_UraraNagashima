@@ -135,6 +135,9 @@
 
 <img src="https://user-images.githubusercontent.com/51436920/207121638-b771105e-2f3d-41a8-866e-3753a2c2ba85.png" width = "500" height = "350">
 
+<img src="https://user-images.githubusercontent.com/51436920/207121883-9b7a29aa-60a1-405b-beed-f2d0848aad7b.png" width = "350" height = "500">
+
+
 ## Results
 
 ## Discussion
