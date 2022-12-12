@@ -145,6 +145,10 @@
 
 <img src="https://user-images.githubusercontent.com/51436920/207121883-9b7a29aa-60a1-405b-beed-f2d0848aad7b.png" width = "350" height = "500">
 
+### ２.印刷して切り取る
+
+印刷に使用したのはヒサゴ HISAGO CJ866NS [デジカメ証明写真サイズシール]
+値段は税込み￥
 
 ## Results
 
