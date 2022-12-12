@@ -139,7 +139,7 @@
 撮影後イーゴくんの背景を透過し、背景に証明写真の背景風の色を差し込む。
 
 
-<img src="(https://user-images.githubusercontent.com/51436920/207122446-c69b5d66-5be9-4d76-9cef-942cb5d170c1.png" width = "350" height = "500">
+<img src="https://user-images.githubusercontent.com/51436920/207122446-c69b5d66-5be9-4d76-9cef-942cb5d170c1.png" width = "350" height = "500">
 
 
 <img src="https://user-images.githubusercontent.com/51436920/207121883-9b7a29aa-60a1-405b-beed-f2d0848aad7b.png" width = "350" height = "500">
