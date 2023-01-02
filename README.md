@@ -1,6 +1,6 @@
 # 2022gsc_UraraNagashima
 
-## 2022年度古橋卒論用レポジトリ
+## 2022年度古橋ゼミ卒論用レポジトリ
 
 青山学院大学 地球社会共生学部 地球社会共生学科
 
@@ -80,19 +80,83 @@
 
 地図記号のうち、
 （図書館
-検察庁
 裁判所
-交番
-警察署
+工場
 郵便局
-小中学校
-高等学校
 博物館
-漁港
+温泉
 重要港
 地方港）を採用。
 
+図書館
 
+<img src="https://user-images.githubusercontent.com/51436920/210266668-e4a81064-d94d-4f09-8806-275cc1385055.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266679-28f58a3d-776a-469f-94d4-62d8499594e3.png" width = "600" height = "350">
+
+
+裁判所
+
+<img src="https://user-images.githubusercontent.com/51436920/210266839-ec4c4bdd-6a1a-4524-941b-b1c7f95c6404.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266851-5b3f693f-78ac-4b51-b9d2-988a9695c163.png" width = "600" height = "350">
+
+
+
+工場
+
+<img src="https://user-images.githubusercontent.com/51436920/210266713-46e04d1e-0e2e-45fb-a25f-e4d98ce4fe9f.png" width = "600" height = "350">
+
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266791-dd6e6ffc-13db-4377-b4cd-e08906f799b8.png" width = "600" height = "350">
+
+
+郵便局
+
+<img src="https://user-images.githubusercontent.com/51436920/210266441-98df8e5b-9c0d-4af8-8183-38c4b7b6ecb1.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266633-8e9c3350-0c62-4069-83c8-6e6820d519eb.png" width = "600" height = "350">
+
+
+博物館
+
+<img src="https://user-images.githubusercontent.com/51436920/210266804-ce1daaf8-c4b0-4181-82a7-731f213f2b76.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266810-ab7bc6ef-7409-4434-8d78-4b5fdd0220c4.png" width = "600" height = "350">
+
+
+温泉
+
+<img src="https://user-images.githubusercontent.com/51436920/210266691-65c0ae94-1e14-4a5f-a5d2-ac0d050ce4b2.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266698-e3a8eb80-8cea-43f1-8254-5c72333b598c.png" width = "600" height = "350">
+
+
+重要港
+
+<img src="https://user-images.githubusercontent.com/51436920/210267011-dc26ff48-fef1-4b7e-a4f6-880d92b15dfa.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210267018-fb5420b3-fb4e-41d9-9b62-3a81a98954c4.png" width = "600" height = "350">
+
+
+地方港
+
+<img src="https://user-images.githubusercontent.com/51436920/210266821-01675c8d-0806-4104-b83b-1cb0c7899a82.png" width = "600" height = "350">
+
+
+<img src="https://user-images.githubusercontent.com/51436920/210266826-96ac87ae-4194-42e6-b36b-fd47fbabe475.png" width = "600" height = "350">
+
+
+
+
+<img src="
 ### ３.3Ⅾプリンターで印刷.
 
 使用したものは自宅にあるプリンター「」
