@@ -180,6 +180,8 @@
 
 
 加工に使用したのは。
+https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j0h0k0l0u0t0z0r0s0m0f1
+
 
 ## イーゴくん証明写真風ガチャ
 
