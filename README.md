@@ -273,8 +273,10 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
                                                                                                                                              
 ちょうどパスポート写真をネットで作成するために登録した有料のサイトがあったためこちらで印刷。
                                                                                                                                              
-                                                                                                                                           
+### 3.広告ポップを作成
 
+
+https://houganshi.net/houganshi_solid.php
 
 ## Results
 
