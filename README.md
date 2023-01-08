@@ -331,7 +331,7 @@ https://docs.google.com/presentation/d/1866suqwLz4JEbvIHWrlENDz-KaY4n0p6jdKYFQTI
 
 スライド
 
-
+https://docs.google.com/presentation/d/19KQvd-jfdzQYt_Pn8UP680FkSNh6yOUi60trc15fnWc/edit?usp=sharing
 
 グラレコ
 
