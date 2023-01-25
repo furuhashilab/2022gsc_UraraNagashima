@@ -240,7 +240,7 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 
 の条件に基づき許可を頂いた（私が相模原キャンパスの方が遠いため青山キャンパスで撮影させていただくことに）。
 
-撮影できたのは種類。学ランを着用したイーゴくんと駅伝仕様のイーゴくんだ。
+撮影できたのは種類。学ランを着用したイーゴくんと受験生応援仕様のイーゴくんだ。
 
 
 <img src="https://user-images.githubusercontent.com/51436920/207121638-b771105e-2f3d-41a8-866e-3753a2c2ba85.png" width = "500" height = "350">
@@ -254,6 +254,19 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 <img src="https://user-images.githubusercontent.com/51436920/207122446-c69b5d66-5be9-4d76-9cef-942cb5d170c1.png" width = "350" height = "500">  
 
 <img src="https://user-images.githubusercontent.com/51436920/207121883-9b7a29aa-60a1-405b-beed-f2d0848aad7b.png" width = "350" height = "500">
+
+
+合格祈願はちまきをつけたイーゴくん。
+
+<img src="https://user-images.githubusercontent.com/51436920/214572194-473ff7e3-d2b7-4265-9c6b-3a7a39258b3f.png" width = "500" height = "350">
+
+こちらも同様に撮影後イーゴくんの背景を透過し、背景に証明写真の背景風の色を差し込む。
+
+
+<img src="https://user-images.githubusercontent.com/51436920/214572413-7fc1cc05-b14f-4ad7-8d33-6de6efd0c841.png" width = "350" height = "500">
+
+<img src="https://user-images.githubusercontent.com/51436920/214572697-8653b5d0-3865-4f00-877c-77408a9dc7c1.png" width = "350" height = "500">
+
 
 ### ２.印刷して切り取る
 
