@@ -286,8 +286,8 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
                                                                                                                                              
 ### 3.広告ポップを作成
 
+![スクリーンショット (156)](https://user-images.githubusercontent.com/51436920/214577041-203df52e-2b7f-4194-a7d3-bb6bacca118a.png)
 
-https://houganshi.net/houganshi_solid.php
 
 ## Results
 
