@@ -265,7 +265,7 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 
 <img src="https://user-images.githubusercontent.com/51436920/214572413-7fc1cc05-b14f-4ad7-8d33-6de6efd0c841.png" width = "350" height = "500">
 
-<img src="https://user-images.githubusercontent.com/51436920/214572697-8653b5d0-3865-4f00-877c-77408a9dc7c1.png" width = "350" height = "500">
+<img src="https://user-images.githubusercontent.com/51436920/214573973-bf1a64f4-5aa3-4e3b-aa97-59d16e899b9d.png" width = "350" height = "500">
 
 
 ### ２.印刷して切り取る
