@@ -202,7 +202,7 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 
 背景に実際のサイズより撮影用に大きく印刷した地図記号を背景透過し載せる。
 
-フォントは商用利用可能な「」を使用。
+![image](https://user-images.githubusercontent.com/51436920/216082625-6682ab94-a4f0-4ce3-964f-14fb88254be5.png)
 
 
 
@@ -287,6 +287,9 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 ### 3.広告ポップを作成
 
 ![スクリーンショット (156)](https://user-images.githubusercontent.com/51436920/214577041-203df52e-2b7f-4194-a7d3-bb6bacca118a.png)
+
+![Uploading image.png…]()
+
 
 
 ## Results
