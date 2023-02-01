@@ -202,7 +202,7 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 
 背景に実際のサイズより撮影用に大きく印刷した地図記号を背景透過し載せる。
 
-![image](https://user-images.githubusercontent.com/51436920/216082625-6682ab94-a4f0-4ce3-964f-14fb88254be5.png)
+<img src="https://user-images.githubusercontent.com/51436920/216082625-6682ab94-a4f0-4ce3-964f-14fb88254be5.png" width = "350" height = "500">  
 
 
 
