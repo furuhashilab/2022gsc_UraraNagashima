@@ -288,7 +288,7 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 
 ![スクリーンショット (156)](https://user-images.githubusercontent.com/51436920/214577041-203df52e-2b7f-4194-a7d3-bb6bacca118a.png)
 
-![image](https://user-images.githubusercontent.com/51436920/216083049-38624598-21ef-43d4-b329-a33b6cf2b1a6.png)
+<img src="https://user-images.githubusercontent.com/51436920/216083049-38624598-21ef-43d4-b329-a33b6cf2b1a6.png" width = "350" height = "500">  
 
 
 
