@@ -200,6 +200,9 @@
 加工に使用したのは。
 https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j0h0k0l0u0t0z0r0s0m0f1
 
+
+## Results
+
 背景に実際のサイズより撮影用に大きく印刷した地図記号を背景透過し載せる。
 
 <img src="https://user-images.githubusercontent.com/51436920/216082625-6682ab94-a4f0-4ce3-964f-14fb88254be5.png" width = "350" height = "500">  
@@ -288,13 +291,16 @@ https://maps.gsi.go.jp/#15/35.568138/139.402385/&base=std&ls=std&disp=1&vs=c0g1j
 
 ![スクリーンショット (156)](https://user-images.githubusercontent.com/51436920/214577041-203df52e-2b7f-4194-a7d3-bb6bacca118a.png)
 
+## Results
+
+
 <img src="https://user-images.githubusercontent.com/51436920/216083049-38624598-21ef-43d4-b329-a33b6cf2b1a6.png" width = "350" height = "500">  
 
 
 
-## Results
-
 ## Discussion
+
+
 
 ## Conclusion
 
