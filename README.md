@@ -50,9 +50,6 @@
 「柄・デザイン」として捉え、地図の新しい可能性を追求するゼンリンの新たな取り組みとして誕生した「マップデザイン」※１の商品が出ていた。
 ※１　https://www.mapdesigngallery.com/pages/about-map-design
 
-（https://www.mapdesigngallery.com/products/8bd024h0b）
-
-
 ・ガチャガチャでは、ブシロードが「TAMA-KYU 地図記号キーホルダー」（https://gacha.o0o0.jp/gp/archives/4577 ) を作成していた。
 
 発売は2022年1月で、金額は300円。
