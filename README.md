@@ -310,6 +310,9 @@ https://docs.google.com/spreadsheets/d/1eERcJoA46zhxX6ZHBOXZkkfA8NIYnEtLiJvolGrF
 
 https://github.com/orgs/furuhashilab/projects/8
 
+### 昨年度ゼミ論リポジトリ
+
+https://github.com/furuhashilab/2021gsc_UraraNagashima
 
 ### 中間発表
 
