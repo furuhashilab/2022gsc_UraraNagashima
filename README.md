@@ -326,11 +326,10 @@ https://docs.google.com/presentation/d/1866suqwLz4JEbvIHWrlENDz-KaY4n0p6jdKYFQTI
 
 メディウム
 
-
+https://medium.com/furuhashilab/飾っても良し-塗っても良し-地図記号ガチャ-4834e03d752d
 
 スライド
 
 https://docs.google.com/presentation/d/19KQvd-jfdzQYt_Pn8UP680FkSNh6yOUi60trc15fnWc/edit?usp=sharing
 
-グラレコ
 
